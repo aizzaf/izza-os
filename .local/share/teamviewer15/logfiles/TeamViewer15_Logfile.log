@@ -1,0 +1,385 @@
+2023/04/15 13:03:34.431  2700 140172373785472 G   Logger started.
+2023/04/15 13:03:34.432  2700 140172373785472 G   Found 0 stack dump files ...
+2023/04/15 13:03:34.432  2700 140172373785472 G   Found 0 core dump files ...
+2023/04/15 13:03:34.435  2700 140172373785472 G   systemd: logind service available
+2023/04/15 13:03:34.437  2700 140172373785472 G   systemd: New seat seat0 [path=/org/freedesktop/login1/seat/seat0, activeSession='1', canGraphical=1, canTTY=1, canMultiSession=0]
+2023/04/15 13:03:34.438  2700 140172373785472 G   LogindSessionInfo: New session LogindSessionInfo [id=1 user=izza state=user active=1 reliable=1 infoId=2212294583] [path=/org/freedesktop/login1/session/_31 TTY=tty1 seat=seat0 display= vtnr=1 owner=[SysUser: izza [uid=1000, gid=1000 home=/home/izza gecos=izza shell=/bin/bash]] idle=1(1681456907047999) active=1 type=tty class=user state=active timestamp=1681456902921012 service=login defaultCG= leader=837 audit=1 remote=0 rHost= rUser= killProc=0]
+2023/04/15 13:03:34.440  2700 140172373785472 G   SysSessionInfoManager: observing sessions from logind is marked as reliable
+2023/04/15 13:03:34.440  2700 140172373785472 G   SysSessionInfoManager: Session Information provided by VT [priority: 2]
+2023/04/15 13:03:34.443  2700 140172373785472 G   SysSessionInfoManager::SessionAdded: adding session SysSession 3510599056 [type=70 vt=1 tty=/dev/tty0 pseudotty=0 info=1 id=/dev/fb0 user=root state=greeter active=0 reliable=1]
+2023/04/15 13:03:34.447  2700 140172373785472 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=2
+2023/04/15 13:03:34.447  2700 140172373785472 G   Running on Qt 5.15.2
+2023/04/15 13:03:34.721  2700 140172373785472 G   Initialised XRandR extension 1.6 (base=89 error=147)
+2023/04/15 13:03:34.727  2700 140172373785472 G   MonitorInfo: [XRandR 1.2] CRTC eDP-1 1366x768@60Hz [0, 0, 1366, 768] - 1
+2023/04/15 13:03:34.727  2700 140172373785472 G   MonitorInfo: [XRandR 1.2] CRTC 1 has no outputs
+2023/04/15 13:03:34.728  2700 140172373785472 G   MonitorInfo: [XRandR 1.2] CRTC 2 has no outputs
+2023/04/15 13:03:34.728  2700 140172373785472 G   Virtual Desktop [0, 0, 1366, 768]
+2023/04/15 13:03:34.744  2700 140172373785472 G   MonitorInfo: [XRandR 1.2] CRTC eDP-1 1366x768@60Hz [0, 0, 1366, 768] - 1
+2023/04/15 13:03:34.745  2700 140172373785472 G   MonitorInfo: [XRandR 1.2] CRTC 1 has no outputs
+2023/04/15 13:03:34.745  2700 140172373785472 G   MonitorInfo: [XRandR 1.2] CRTC 2 has no outputs
+2023/04/15 13:03:34.745  2700 140172373785472 G   Virtual Desktop [0, 0, 1366, 768]
+2023/04/15 13:03:34.746  2700 140172373785472 G!! MonitorInfo: WorkingArea: Property error 14 (0), Errorcode=2
+2023/04/15 13:03:34.760  2700 140172373785472 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=2
+2023/04/15 13:03:34.766  2700 140172373785472 G   The One UI is not active
+2023/04/15 13:03:34.769  2700 140172373785472 G   Loaded language 'en', using locale 'en'
+2023/04/15 13:03:34.770  2700 140172373785472 G   InterProcessBase::SecureNetwork created
+2023/04/15 13:03:34.773  2700 140172373785472 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:03:34.777  2700 140172373785472 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:03:34.783  2700 140172373785472 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:03:34.788  2700 140172373785472 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:03:34.792  2700 140172373785472 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:03:34.796  2700 140172373785472 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:03:34.796  2700 140172373785472 G   AutoLogin::Login: enabled: 1
+2023/04/15 13:03:34.796  2700 140172373785472 G   AccountLoginStateMachine::Reset
+2023/04/15 13:03:34.797  2700 140172373785472 G   VoIP: Constructor
+2023/04/15 13:03:34.801  2700 140172373785472 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:03:34.805  2700 140172373785472 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:03:34.806  2700 140172373785472 G!!!Own session could not be resolved, unable to startup, Errorcode=11
+2023/04/15 13:03:34.810  2700 140172373785472 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:03:34.810  2700 140172373785472 G   Chat::Stop: Stopping chat
+2023/04/15 13:03:34.815  2700 140172373785472 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:03:34.815  2700 140172373785472 G   InterProcessBase::SetReadyToProcessCommands(0)
+2023/04/15 13:03:34.815  2700 140172373785472 G   VoIP: Destructor
+2023/04/15 13:03:34.815  2700 140172359243328 G   VoIP: VoIPFieldLoggerFileSynchronizer (a ThreadPool): StopThreads
+2023/04/15 13:03:34.819  2700 140172373785472 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:03:34.826  2700 140172373785472 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:03:34.831  2700 140172373785472 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:03:34.831  2700 140172373785472 G   InterProcessBase::ShutDown: Shutdown IPC
+2023/04/15 13:03:34.831  2700 140172373785472 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 9 failed with error 2, Errorcode=11
+2023/04/15 13:03:34.831  2700 140172373785472 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 5 failed with error 2, Errorcode=11
+2023/04/15 13:03:34.831  2700 140172373785472 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 6 failed with error 2, Errorcode=11
+2023/04/15 13:03:34.831  2700 140172373785472 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 14 failed with error 2, Errorcode=11
+2023/04/15 13:03:34.831  2700 140172373785472 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 10 failed with error 2, Errorcode=11
+2023/04/15 13:03:34.836  2700 140172373785472 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:03:34.846  2700 140172373785472 G   interprocessbase::SecureNetwork destroyed
+2023/04/15 13:03:34.846  2700 140172373785472 G   Shutting down DBus IOHandler
+2023/04/15 13:08:28.630  4204 139758601239424 G   Logger started.
+2023/04/15 13:08:28.630  4204 139758601239424 G   Found 0 stack dump files ...
+2023/04/15 13:08:28.630  4204 139758601239424 G   Found 0 core dump files ...
+2023/04/15 13:08:28.633  4204 139758601239424 G   systemd: logind service available
+2023/04/15 13:08:28.635  4204 139758601239424 G   systemd: New seat seat0 [path=/org/freedesktop/login1/seat/seat0, activeSession='1', canGraphical=1, canTTY=1, canMultiSession=0]
+2023/04/15 13:08:28.636  4204 139758601239424 G   LogindSessionInfo: New session LogindSessionInfo [id=1 user=izza state=user active=1 reliable=1 infoId=2212294583] [path=/org/freedesktop/login1/session/_31 TTY=tty1 seat=seat0 display= vtnr=1 owner=[SysUser: izza [uid=1000, gid=1000 home=/home/izza gecos=izza shell=/bin/bash]] idle=1(1681456907047999) active=1 type=tty class=user state=active timestamp=1681456902921012 service=login defaultCG= leader=837 audit=1 remote=0 rHost= rUser= killProc=0]
+2023/04/15 13:08:28.638  4204 139758601239424 G   SysSessionInfoManager: observing sessions from logind is marked as reliable
+2023/04/15 13:08:28.638  4204 139758601239424 G   SysSessionInfoManager: Session Information provided by VT [priority: 2]
+2023/04/15 13:08:28.641  4204 139758601239424 G   SysSessionInfoManager::SessionAdded: adding session SysSession 3510599056 [type=70 vt=1 tty=/dev/tty0 pseudotty=0 info=1 id=/dev/fb0 user=root state=greeter active=0 reliable=1]
+2023/04/15 13:08:28.643  4204 139758601239424 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2023/04/15 13:08:28.644  4204 139758601239424 G   Running on Qt 5.15.2
+2023/04/15 13:08:28.911  4204 139758601239424 G   Initialised XRandR extension 1.6 (base=89 error=147)
+2023/04/15 13:08:28.921  4204 139758601239424 G   MonitorInfo: [XRandR 1.2] CRTC eDP-1 1366x768@60Hz [0, 0, 1366, 768] - 1
+2023/04/15 13:08:28.921  4204 139758601239424 G   MonitorInfo: [XRandR 1.2] CRTC 1 has no outputs
+2023/04/15 13:08:28.921  4204 139758601239424 G   MonitorInfo: [XRandR 1.2] CRTC 2 has no outputs
+2023/04/15 13:08:28.921  4204 139758601239424 G   Virtual Desktop [0, 0, 1366, 768]
+2023/04/15 13:08:28.937  4204 139758601239424 G   MonitorInfo: [XRandR 1.2] CRTC eDP-1 1366x768@60Hz [0, 0, 1366, 768] - 1
+2023/04/15 13:08:28.937  4204 139758601239424 G   MonitorInfo: [XRandR 1.2] CRTC 1 has no outputs
+2023/04/15 13:08:28.938  4204 139758601239424 G   MonitorInfo: [XRandR 1.2] CRTC 2 has no outputs
+2023/04/15 13:08:28.938  4204 139758601239424 G   Virtual Desktop [0, 0, 1366, 768]
+2023/04/15 13:08:28.939  4204 139758601239424 G!! MonitorInfo: WorkingArea: Property error 14 (0)
+2023/04/15 13:08:28.950  4204 139758601239424 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2023/04/15 13:08:28.956  4204 139758601239424 G   The One UI is not active
+2023/04/15 13:08:28.960  4204 139758601239424 G   Loaded language 'en', using locale 'en'
+2023/04/15 13:08:28.960  4204 139758601239424 G   InterProcessBase::SecureNetwork created
+2023/04/15 13:08:28.963  4204 139758601239424 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:08:28.965  4204 139758601239424 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:08:28.968  4204 139758601239424 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:08:28.971  4204 139758601239424 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:08:28.973  4204 139758601239424 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:08:28.976  4204 139758601239424 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:08:28.976  4204 139758601239424 G   AutoLogin::Login: enabled: 1
+2023/04/15 13:08:28.976  4204 139758601239424 G   AccountLoginStateMachine::Reset
+2023/04/15 13:08:28.976  4204 139758601239424 G   VoIP: Constructor
+2023/04/15 13:08:28.979  4204 139758601239424 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:08:28.982  4204 139758601239424 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:08:28.982  4204 139758601239424 G!!!Own session could not be resolved, unable to startup, Errorcode=11
+2023/04/15 13:08:28.984  4204 139758601239424 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:08:28.984  4204 139758601239424 G   Chat::Stop: Stopping chat
+2023/04/15 13:08:28.987  4204 139758601239424 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:08:28.988  4204 139758601239424 G   InterProcessBase::SetReadyToProcessCommands(0)
+2023/04/15 13:08:28.988  4204 139758601239424 G   VoIP: Destructor
+2023/04/15 13:08:28.988  4204 139758586697280 G   VoIP: VoIPFieldLoggerFileSynchronizer (a ThreadPool): StopThreads
+2023/04/15 13:08:28.994  4204 139758601239424 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:08:28.999  4204 139758601239424 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:08:29.004  4204 139758601239424 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:08:29.004  4204 139758601239424 G   InterProcessBase::ShutDown: Shutdown IPC
+2023/04/15 13:08:29.004  4204 139758601239424 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 9 failed with error 2, Errorcode=11
+2023/04/15 13:08:29.004  4204 139758601239424 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 5 failed with error 2, Errorcode=11
+2023/04/15 13:08:29.005  4204 139758601239424 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 6 failed with error 2, Errorcode=11
+2023/04/15 13:08:29.005  4204 139758601239424 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 14 failed with error 2, Errorcode=11
+2023/04/15 13:08:29.005  4204 139758601239424 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 10 failed with error 2, Errorcode=11
+2023/04/15 13:08:29.009  4204 139758601239424 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:08:29.020  4204 139758601239424 G   interprocessbase::SecureNetwork destroyed
+2023/04/15 13:08:29.021  4204 139758601239424 G   Shutting down DBus IOHandler
+2023/04/15 13:08:44.230  4277 140407018888064 G   Logger started.
+2023/04/15 13:08:44.230  4277 140407018888064 G   Found 0 stack dump files ...
+2023/04/15 13:08:44.230  4277 140407018888064 G   Found 0 core dump files ...
+2023/04/15 13:08:44.234  4277 140407018888064 G   systemd: logind service available
+2023/04/15 13:08:44.240  4277 140407018888064 G   systemd: New seat seat0 [path=/org/freedesktop/login1/seat/seat0, activeSession='1', canGraphical=1, canTTY=1, canMultiSession=0]
+2023/04/15 13:08:44.242  4277 140407018888064 G   LogindSessionInfo: New session LogindSessionInfo [id=1 user=izza state=user active=1 reliable=1 infoId=2212294583] [path=/org/freedesktop/login1/session/_31 TTY=tty1 seat=seat0 display= vtnr=1 owner=[SysUser: izza [uid=1000, gid=1000 home=/home/izza gecos=izza shell=/bin/bash]] idle=1(1681456907047999) active=1 type=tty class=user state=active timestamp=1681456902921012 service=login defaultCG= leader=837 audit=1 remote=0 rHost= rUser= killProc=0]
+2023/04/15 13:08:44.243  4277 140407018888064 G   SysSessionInfoManager: observing sessions from logind is marked as reliable
+2023/04/15 13:08:44.244  4277 140407018888064 G   SysSessionInfoManager: Session Information provided by VT [priority: 2]
+2023/04/15 13:08:44.246  4277 140407018888064 G   SysSessionInfoManager::SessionAdded: adding session SysSession 3510599056 [type=70 vt=1 tty=/dev/tty0 pseudotty=0 info=1 id=/dev/fb0 user=root state=greeter active=0 reliable=1]
+2023/04/15 13:08:44.249  4277 140407018888064 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2023/04/15 13:08:44.250  4277 140407018888064 G   Running on Qt 5.15.2
+2023/04/15 13:08:44.504  4277 140407018888064 G   Initialised XRandR extension 1.6 (base=89 error=147)
+2023/04/15 13:08:44.514  4277 140407018888064 G   MonitorInfo: [XRandR 1.2] CRTC eDP-1 1366x768@60Hz [0, 0, 1366, 768] - 1
+2023/04/15 13:08:44.514  4277 140407018888064 G   MonitorInfo: [XRandR 1.2] CRTC 1 has no outputs
+2023/04/15 13:08:44.516  4277 140407018888064 G   MonitorInfo: [XRandR 1.2] CRTC 2 has no outputs
+2023/04/15 13:08:44.516  4277 140407018888064 G   Virtual Desktop [0, 0, 1366, 768]
+2023/04/15 13:08:44.529  4277 140407018888064 G   MonitorInfo: [XRandR 1.2] CRTC eDP-1 1366x768@60Hz [0, 0, 1366, 768] - 1
+2023/04/15 13:08:44.530  4277 140407018888064 G   MonitorInfo: [XRandR 1.2] CRTC 1 has no outputs
+2023/04/15 13:08:44.530  4277 140407018888064 G   MonitorInfo: [XRandR 1.2] CRTC 2 has no outputs
+2023/04/15 13:08:44.530  4277 140407018888064 G   Virtual Desktop [0, 0, 1366, 768]
+2023/04/15 13:08:44.531  4277 140407018888064 G!! MonitorInfo: WorkingArea: Property error 14 (0)
+2023/04/15 13:08:44.545  4277 140407018888064 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2023/04/15 13:08:44.551  4277 140407018888064 G   The One UI is not active
+2023/04/15 13:08:44.554  4277 140407018888064 G   Loaded language 'en', using locale 'en'
+2023/04/15 13:08:44.555  4277 140407018888064 G   InterProcessBase::SecureNetwork created
+2023/04/15 13:08:44.559  4277 140407018888064 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:08:44.564  4277 140407018888064 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:08:44.568  4277 140407018888064 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:08:44.573  4277 140407018888064 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:08:44.577  4277 140407018888064 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:08:44.582  4277 140407018888064 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:08:44.582  4277 140407018888064 G   AutoLogin::Login: enabled: 1
+2023/04/15 13:08:44.582  4277 140407018888064 G   AccountLoginStateMachine::Reset
+2023/04/15 13:08:44.582  4277 140407018888064 G   VoIP: Constructor
+2023/04/15 13:08:44.587  4277 140407018888064 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:08:44.592  4277 140407018888064 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:08:44.592  4277 140407018888064 G!!!Own session could not be resolved, unable to startup, Errorcode=11
+2023/04/15 13:08:44.596  4277 140407018888064 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:08:44.596  4277 140407018888064 G   Chat::Stop: Stopping chat
+2023/04/15 13:08:44.600  4277 140407018888064 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:08:44.601  4277 140407018888064 G   InterProcessBase::SetReadyToProcessCommands(0)
+2023/04/15 13:08:44.601  4277 140407018888064 G   VoIP: Destructor
+2023/04/15 13:08:44.601  4277 140407004345920 G   VoIP: VoIPFieldLoggerFileSynchronizer (a ThreadPool): StopThreads
+2023/04/15 13:08:44.604  4277 140407018888064 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:08:44.607  4277 140407018888064 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:08:44.610  4277 140407018888064 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:08:44.610  4277 140407018888064 G   InterProcessBase::ShutDown: Shutdown IPC
+2023/04/15 13:08:44.610  4277 140407018888064 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 9 failed with error 2, Errorcode=11
+2023/04/15 13:08:44.610  4277 140407018888064 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 5 failed with error 2, Errorcode=11
+2023/04/15 13:08:44.610  4277 140407018888064 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 6 failed with error 2, Errorcode=11
+2023/04/15 13:08:44.610  4277 140407018888064 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 14 failed with error 2, Errorcode=11
+2023/04/15 13:08:44.610  4277 140407018888064 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 10 failed with error 2, Errorcode=11
+2023/04/15 13:08:44.614  4277 140407018888064 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:08:44.622  4277 140407018888064 G   interprocessbase::SecureNetwork destroyed
+2023/04/15 13:08:44.622  4277 140407018888064 G   Shutting down DBus IOHandler
+2023/04/15 13:09:49.441  4344 140043530722176 G   Logger started.
+2023/04/15 13:09:49.441  4344 140043530722176 G   Found 0 stack dump files ...
+2023/04/15 13:09:49.441  4344 140043530722176 G   Found 0 core dump files ...
+2023/04/15 13:09:49.445  4344 140043530722176 G   systemd: logind service available
+2023/04/15 13:09:49.448  4344 140043530722176 G   systemd: New seat seat0 [path=/org/freedesktop/login1/seat/seat0, activeSession='1', canGraphical=1, canTTY=1, canMultiSession=0]
+2023/04/15 13:09:49.450  4344 140043530722176 G   LogindSessionInfo: New session LogindSessionInfo [id=1 user=izza state=user active=1 reliable=1 infoId=2212294583] [path=/org/freedesktop/login1/session/_31 TTY=tty1 seat=seat0 display= vtnr=1 owner=[SysUser: izza [uid=1000, gid=1000 home=/home/izza gecos=izza shell=/bin/bash]] idle=1(1681456907047999) active=1 type=tty class=user state=active timestamp=1681456902921012 service=login defaultCG= leader=837 audit=1 remote=0 rHost= rUser= killProc=0]
+2023/04/15 13:09:49.452  4344 140043530722176 G   SysSessionInfoManager: observing sessions from logind is marked as reliable
+2023/04/15 13:09:49.452  4344 140043530722176 G   SysSessionInfoManager: Session Information provided by VT [priority: 2]
+2023/04/15 13:09:49.454  4344 140043530722176 G   SysSessionInfoManager::SessionAdded: adding session SysSession 3510599056 [type=70 vt=1 tty=/dev/tty0 pseudotty=0 info=1 id=/dev/fb0 user=root state=greeter active=0 reliable=1]
+2023/04/15 13:09:49.458  4344 140043530722176 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2023/04/15 13:09:49.458  4344 140043530722176 G   Running on Qt 5.15.2
+2023/04/15 13:09:49.667  4344 140043530722176 G   Initialised XRandR extension 1.6 (base=89 error=147)
+2023/04/15 13:09:49.680  4344 140043530722176 G   MonitorInfo: [XRandR 1.2] CRTC eDP-1 1366x768@60Hz [0, 0, 1366, 768] - 1
+2023/04/15 13:09:49.680  4344 140043530722176 G   MonitorInfo: [XRandR 1.2] CRTC 1 has no outputs
+2023/04/15 13:09:49.680  4344 140043530722176 G   MonitorInfo: [XRandR 1.2] CRTC 2 has no outputs
+2023/04/15 13:09:49.681  4344 140043530722176 G   Virtual Desktop [0, 0, 1366, 768]
+2023/04/15 13:09:49.697  4344 140043530722176 G   MonitorInfo: [XRandR 1.2] CRTC eDP-1 1366x768@60Hz [0, 0, 1366, 768] - 1
+2023/04/15 13:09:49.697  4344 140043530722176 G   MonitorInfo: [XRandR 1.2] CRTC 1 has no outputs
+2023/04/15 13:09:49.697  4344 140043530722176 G   MonitorInfo: [XRandR 1.2] CRTC 2 has no outputs
+2023/04/15 13:09:49.697  4344 140043530722176 G   Virtual Desktop [0, 0, 1366, 768]
+2023/04/15 13:09:49.697  4344 140043530722176 G!! MonitorInfo: WorkingArea: Property error 14 (0)
+2023/04/15 13:09:49.709  4344 140043530722176 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2023/04/15 13:09:49.715  4344 140043530722176 G   The One UI is not active
+2023/04/15 13:09:49.718  4344 140043530722176 G   Loaded language 'en', using locale 'en'
+2023/04/15 13:09:49.718  4344 140043530722176 G   InterProcessBase::SecureNetwork created
+2023/04/15 13:09:49.722  4344 140043530722176 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:09:49.725  4344 140043530722176 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:09:49.729  4344 140043530722176 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:09:49.732  4344 140043530722176 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:09:49.735  4344 140043530722176 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:09:49.738  4344 140043530722176 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:09:49.738  4344 140043530722176 G   AutoLogin::Login: enabled: 1
+2023/04/15 13:09:49.738  4344 140043530722176 G   AccountLoginStateMachine::Reset
+2023/04/15 13:09:49.739  4344 140043530722176 G   VoIP: Constructor
+2023/04/15 13:09:49.742  4344 140043530722176 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:09:49.746  4344 140043530722176 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:09:49.746  4344 140043530722176 G!!!Own session could not be resolved, unable to startup, Errorcode=11
+2023/04/15 13:09:49.749  4344 140043530722176 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:09:49.749  4344 140043530722176 G   Chat::Stop: Stopping chat
+2023/04/15 13:09:49.753  4344 140043530722176 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:09:49.753  4344 140043530722176 G   InterProcessBase::SetReadyToProcessCommands(0)
+2023/04/15 13:09:49.753  4344 140043530722176 G   VoIP: Destructor
+2023/04/15 13:09:49.753  4344 140043516180032 G   VoIP: VoIPFieldLoggerFileSynchronizer (a ThreadPool): StopThreads
+2023/04/15 13:09:49.757  4344 140043530722176 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:09:49.759  4344 140043530722176 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:09:49.763  4344 140043530722176 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:09:49.763  4344 140043530722176 G   InterProcessBase::ShutDown: Shutdown IPC
+2023/04/15 13:09:49.764  4344 140043530722176 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 9 failed with error 2, Errorcode=11
+2023/04/15 13:09:49.764  4344 140043530722176 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 5 failed with error 2, Errorcode=11
+2023/04/15 13:09:49.764  4344 140043530722176 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 6 failed with error 2, Errorcode=11
+2023/04/15 13:09:49.764  4344 140043530722176 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 14 failed with error 2, Errorcode=11
+2023/04/15 13:09:49.764  4344 140043530722176 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 10 failed with error 2, Errorcode=11
+2023/04/15 13:09:49.768  4344 140043530722176 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:09:49.777  4344 140043530722176 G   interprocessbase::SecureNetwork destroyed
+2023/04/15 13:09:49.778  4344 140043530722176 G   Shutting down DBus IOHandler
+2023/04/15 13:10:08.367  4399 140071743724416 G   Logger started.
+2023/04/15 13:10:08.368  4399 140071743724416 G   Found 0 stack dump files ...
+2023/04/15 13:10:08.368  4399 140071743724416 G   Found 0 core dump files ...
+2023/04/15 13:10:08.371  4399 140071743724416 G   systemd: logind service available
+2023/04/15 13:10:08.375  4399 140071743724416 G   systemd: New seat seat0 [path=/org/freedesktop/login1/seat/seat0, activeSession='1', canGraphical=1, canTTY=1, canMultiSession=0]
+2023/04/15 13:10:08.377  4399 140071743724416 G   LogindSessionInfo: New session LogindSessionInfo [id=1 user=izza state=user active=1 reliable=1 infoId=2212294583] [path=/org/freedesktop/login1/session/_31 TTY=tty1 seat=seat0 display= vtnr=1 owner=[SysUser: izza [uid=1000, gid=1000 home=/home/izza gecos=izza shell=/bin/bash]] idle=1(1681456907047999) active=1 type=tty class=user state=active timestamp=1681456902921012 service=login defaultCG= leader=837 audit=1 remote=0 rHost= rUser= killProc=0]
+2023/04/15 13:10:08.379  4399 140071743724416 G   SysSessionInfoManager: observing sessions from logind is marked as reliable
+2023/04/15 13:10:08.379  4399 140071743724416 G   SysSessionInfoManager: Session Information provided by VT [priority: 2]
+2023/04/15 13:10:08.381  4399 140071743724416 G   SysSessionInfoManager::SessionAdded: adding session SysSession 3510599056 [type=70 vt=1 tty=/dev/tty0 pseudotty=0 info=1 id=/dev/fb0 user=root state=greeter active=0 reliable=1]
+2023/04/15 13:10:08.384  4399 140071743724416 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2023/04/15 13:10:08.385  4399 140071743724416 G   Running on Qt 5.15.2
+2023/04/15 13:10:08.596  4399 140071743724416 G   Initialised XRandR extension 1.6 (base=89 error=147)
+2023/04/15 13:10:08.608  4399 140071743724416 G   MonitorInfo: [XRandR 1.2] CRTC eDP-1 1366x768@60Hz [0, 0, 1366, 768] - 1
+2023/04/15 13:10:08.608  4399 140071743724416 G   MonitorInfo: [XRandR 1.2] CRTC 1 has no outputs
+2023/04/15 13:10:08.608  4399 140071743724416 G   MonitorInfo: [XRandR 1.2] CRTC 2 has no outputs
+2023/04/15 13:10:08.608  4399 140071743724416 G   Virtual Desktop [0, 0, 1366, 768]
+2023/04/15 13:10:08.624  4399 140071743724416 G   MonitorInfo: [XRandR 1.2] CRTC eDP-1 1366x768@60Hz [0, 0, 1366, 768] - 1
+2023/04/15 13:10:08.624  4399 140071743724416 G   MonitorInfo: [XRandR 1.2] CRTC 1 has no outputs
+2023/04/15 13:10:08.624  4399 140071743724416 G   MonitorInfo: [XRandR 1.2] CRTC 2 has no outputs
+2023/04/15 13:10:08.624  4399 140071743724416 G   Virtual Desktop [0, 0, 1366, 768]
+2023/04/15 13:10:08.624  4399 140071743724416 G!! MonitorInfo: WorkingArea: Property error 14 (0)
+2023/04/15 13:10:08.635  4399 140071743724416 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2023/04/15 13:10:08.641  4399 140071743724416 G   The One UI is not active
+2023/04/15 13:10:08.644  4399 140071743724416 G   Loaded language 'en', using locale 'en'
+2023/04/15 13:10:08.645  4399 140071743724416 G   InterProcessBase::SecureNetwork created
+2023/04/15 13:10:08.647  4399 140071743724416 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:10:08.650  4399 140071743724416 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:10:08.654  4399 140071743724416 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:10:08.657  4399 140071743724416 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:10:08.661  4399 140071743724416 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:10:08.663  4399 140071743724416 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:10:08.664  4399 140071743724416 G   AutoLogin::Login: enabled: 1
+2023/04/15 13:10:08.664  4399 140071743724416 G   AccountLoginStateMachine::Reset
+2023/04/15 13:10:08.664  4399 140071743724416 G   VoIP: Constructor
+2023/04/15 13:10:08.668  4399 140071743724416 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:10:08.671  4399 140071743724416 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:10:08.671  4399 140071743724416 G!!!Own session could not be resolved, unable to startup, Errorcode=11
+2023/04/15 13:10:08.674  4399 140071743724416 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:10:08.674  4399 140071743724416 G   Chat::Stop: Stopping chat
+2023/04/15 13:10:08.678  4399 140071743724416 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:10:08.678  4399 140071743724416 G   InterProcessBase::SetReadyToProcessCommands(0)
+2023/04/15 13:10:08.678  4399 140071743724416 G   VoIP: Destructor
+2023/04/15 13:10:08.678  4399 140071729182272 G   VoIP: VoIPFieldLoggerFileSynchronizer (a ThreadPool): StopThreads
+2023/04/15 13:10:08.682  4399 140071743724416 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:10:08.685  4399 140071743724416 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:10:08.688  4399 140071743724416 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:10:08.688  4399 140071743724416 G   InterProcessBase::ShutDown: Shutdown IPC
+2023/04/15 13:10:08.688  4399 140071743724416 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 9 failed with error 2, Errorcode=11
+2023/04/15 13:10:08.688  4399 140071743724416 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 5 failed with error 2, Errorcode=11
+2023/04/15 13:10:08.688  4399 140071743724416 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 6 failed with error 2, Errorcode=11
+2023/04/15 13:10:08.688  4399 140071743724416 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 14 failed with error 2, Errorcode=11
+2023/04/15 13:10:08.688  4399 140071743724416 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 10 failed with error 2, Errorcode=11
+2023/04/15 13:10:08.692  4399 140071743724416 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:10:08.700  4399 140071743724416 G   interprocessbase::SecureNetwork destroyed
+2023/04/15 13:10:08.701  4399 140071743724416 G   Shutting down DBus IOHandler
+2023/04/15 13:12:04.915  1283 140432283777920 G   Logger started.
+2023/04/15 13:12:04.918  1283 140432283777920 G   Found 0 stack dump files ...
+2023/04/15 13:12:04.918  1283 140432283777920 G   Found 0 core dump files ...
+2023/04/15 13:12:04.921  1283 140432283777920 G   systemd: logind service available
+2023/04/15 13:12:04.929  1283 140432283777920 G   systemd: New seat seat0 [path=/org/freedesktop/login1/seat/seat0, activeSession='1', canGraphical=1, canTTY=1, canMultiSession=0]
+2023/04/15 13:12:04.934  1283 140432283777920 G   LogindSessionInfo: New session LogindSessionInfo [id=1 user=izza state=user active=1 reliable=1 infoId=2212294583] [path=/org/freedesktop/login1/session/_31 TTY=tty1 seat=seat0 display= vtnr=1 owner=[SysUser: izza [uid=1000, gid=1000 home=/home/izza gecos=izza shell=/bin/bash]] idle=0(1681539096015999) active=1 type=tty class=user state=active timestamp=1681539097990029 service=login defaultCG= leader=828 audit=1 remote=0 rHost= rUser= killProc=0]
+2023/04/15 13:12:04.937  1283 140432283777920 G   SysSessionInfoManager: observing sessions from logind is marked as reliable
+2023/04/15 13:12:04.937  1283 140432283777920 G   SysSessionInfoManager: Session Information provided by VT [priority: 2]
+2023/04/15 13:12:04.940  1283 140432283777920 G   SysSessionInfoManager::SessionAdded: adding session SysSession 3510599056 [type=70 vt=1 tty=/dev/tty0 pseudotty=0 info=1 id=/dev/fb0 user=root state=greeter active=0 reliable=1]
+2023/04/15 13:12:04.943  1283 140432283777920 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2023/04/15 13:12:04.943  1283 140432283777920 G   Running on Qt 5.15.2
+2023/04/15 13:12:05.224  1283 140432283777920 G   Initialised XRandR extension 1.6 (base=89 error=147)
+2023/04/15 13:12:05.243  1283 140432283777920 G   MonitorInfo: [XRandR 1.2] CRTC eDP-1 1366x768@60Hz [0, 0, 1366, 768] - 1
+2023/04/15 13:12:05.244  1283 140432283777920 G   MonitorInfo: [XRandR 1.2] CRTC 1 has no outputs
+2023/04/15 13:12:05.244  1283 140432283777920 G   MonitorInfo: [XRandR 1.2] CRTC 2 has no outputs
+2023/04/15 13:12:05.244  1283 140432283777920 G   Virtual Desktop [0, 0, 1366, 768]
+2023/04/15 13:12:05.259  1283 140432283777920 G   MonitorInfo: [XRandR 1.2] CRTC eDP-1 1366x768@60Hz [0, 0, 1366, 768] - 1
+2023/04/15 13:12:05.260  1283 140432283777920 G   MonitorInfo: [XRandR 1.2] CRTC 1 has no outputs
+2023/04/15 13:12:05.261  1283 140432283777920 G   MonitorInfo: [XRandR 1.2] CRTC 2 has no outputs
+2023/04/15 13:12:05.261  1283 140432283777920 G   Virtual Desktop [0, 0, 1366, 768]
+2023/04/15 13:12:05.262  1283 140432283777920 G!! MonitorInfo: WorkingArea: Property error 14 (0)
+2023/04/15 13:12:05.283  1283 140432283777920 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2023/04/15 13:12:05.292  1283 140432283777920 G   The One UI is not active
+2023/04/15 13:12:05.298  1283 140432283777920 G   Loaded language 'en', using locale 'en'
+2023/04/15 13:12:05.299  1283 140432283777920 G   InterProcessBase::SecureNetwork created
+2023/04/15 13:12:05.304  1283 140432283777920 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:12:05.308  1283 140432283777920 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:12:05.317  1283 140432283777920 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:12:05.323  1283 140432283777920 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:12:05.327  1283 140432283777920 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:12:05.332  1283 140432283777920 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:12:05.332  1283 140432283777920 G   AutoLogin::Login: enabled: 1
+2023/04/15 13:12:05.332  1283 140432283777920 G   AccountLoginStateMachine::Reset
+2023/04/15 13:12:05.335  1283 140432283777920 G   VoIP: Constructor
+2023/04/15 13:12:05.339  1283 140432283777920 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:12:05.343  1283 140432283777920 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:12:05.343  1283 140432283777920 G!!!Own session could not be resolved, unable to startup, Errorcode=11
+2023/04/15 13:12:05.347  1283 140432283777920 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:12:05.347  1283 140432283777920 G   Chat::Stop: Stopping chat
+2023/04/15 13:12:05.351  1283 140432283777920 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:12:05.352  1283 140432283777920 G   InterProcessBase::SetReadyToProcessCommands(0)
+2023/04/15 13:12:05.352  1283 140432283777920 G   VoIP: Destructor
+2023/04/15 13:12:05.353  1283 140432269235776 G   VoIP: VoIPFieldLoggerFileSynchronizer (a ThreadPool): StopThreads
+2023/04/15 13:12:05.357  1283 140432283777920 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:12:05.361  1283 140432283777920 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:12:05.365  1283 140432283777920 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:12:05.365  1283 140432283777920 G   InterProcessBase::ShutDown: Shutdown IPC
+2023/04/15 13:12:05.365  1283 140432283777920 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 9 failed with error 2, Errorcode=11
+2023/04/15 13:12:05.365  1283 140432283777920 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 5 failed with error 2, Errorcode=11
+2023/04/15 13:12:05.365  1283 140432283777920 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 6 failed with error 2, Errorcode=11
+2023/04/15 13:12:05.365  1283 140432283777920 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 14 failed with error 2, Errorcode=11
+2023/04/15 13:12:05.366  1283 140432283777920 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 10 failed with error 2, Errorcode=11
+2023/04/15 13:12:05.370  1283 140432283777920 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:12:05.388  1283 140432283777920 G   interprocessbase::SecureNetwork destroyed
+2023/04/15 13:12:05.389  1283 140432283777920 G   Shutting down DBus IOHandler
+2023/04/15 13:12:56.918  1354 140356995435392 G   Logger started.
+2023/04/15 13:12:56.918  1354 140356995435392 G   Found 0 stack dump files ...
+2023/04/15 13:12:56.918  1354 140356995435392 G   Found 0 core dump files ...
+2023/04/15 13:12:56.921  1354 140356995435392 G   systemd: logind service available
+2023/04/15 13:12:56.926  1354 140356995435392 G   systemd: New seat seat0 [path=/org/freedesktop/login1/seat/seat0, activeSession='1', canGraphical=1, canTTY=1, canMultiSession=0]
+2023/04/15 13:12:56.928  1354 140356995435392 G   LogindSessionInfo: New session LogindSessionInfo [id=1 user=izza state=user active=1 reliable=1 infoId=2212294583] [path=/org/freedesktop/login1/session/_31 TTY=tty1 seat=seat0 display= vtnr=1 owner=[SysUser: izza [uid=1000, gid=1000 home=/home/izza gecos=izza shell=/bin/bash]] idle=0(1681539096015999) active=1 type=tty class=user state=active timestamp=1681539097990029 service=login defaultCG= leader=828 audit=1 remote=0 rHost= rUser= killProc=0]
+2023/04/15 13:12:56.930  1354 140356995435392 G   SysSessionInfoManager: observing sessions from logind is marked as reliable
+2023/04/15 13:12:56.930  1354 140356995435392 G   SysSessionInfoManager: Session Information provided by VT [priority: 2]
+2023/04/15 13:12:56.932  1354 140356995435392 G   SysSessionInfoManager::SessionAdded: adding session SysSession 3510599056 [type=70 vt=1 tty=/dev/tty0 pseudotty=0 info=1 id=/dev/fb0 user=root state=greeter active=0 reliable=1]
+2023/04/15 13:12:56.936  1354 140356995435392 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2023/04/15 13:12:56.936  1354 140356995435392 G   Running on Qt 5.15.2
+2023/04/15 13:12:57.150  1354 140356995435392 G   Initialised XRandR extension 1.6 (base=89 error=147)
+2023/04/15 13:12:57.161  1354 140356995435392 G   MonitorInfo: [XRandR 1.2] CRTC eDP-1 1366x768@60Hz [0, 0, 1366, 768] - 1
+2023/04/15 13:12:57.161  1354 140356995435392 G   MonitorInfo: [XRandR 1.2] CRTC 1 has no outputs
+2023/04/15 13:12:57.161  1354 140356995435392 G   MonitorInfo: [XRandR 1.2] CRTC 2 has no outputs
+2023/04/15 13:12:57.161  1354 140356995435392 G   Virtual Desktop [0, 0, 1366, 768]
+2023/04/15 13:12:57.177  1354 140356995435392 G   MonitorInfo: [XRandR 1.2] CRTC eDP-1 1366x768@60Hz [0, 0, 1366, 768] - 1
+2023/04/15 13:12:57.177  1354 140356995435392 G   MonitorInfo: [XRandR 1.2] CRTC 1 has no outputs
+2023/04/15 13:12:57.177  1354 140356995435392 G   MonitorInfo: [XRandR 1.2] CRTC 2 has no outputs
+2023/04/15 13:12:57.177  1354 140356995435392 G   Virtual Desktop [0, 0, 1366, 768]
+2023/04/15 13:12:57.178  1354 140356995435392 G!! MonitorInfo: WorkingArea: Property error 14 (0)
+2023/04/15 13:12:57.191  1354 140356995435392 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2023/04/15 13:12:57.197  1354 140356995435392 G   The One UI is not active
+2023/04/15 13:12:57.200  1354 140356995435392 G   Loaded language 'en', using locale 'en'
+2023/04/15 13:12:57.201  1354 140356995435392 G   InterProcessBase::SecureNetwork created
+2023/04/15 13:12:57.205  1354 140356995435392 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:12:57.209  1354 140356995435392 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:12:57.213  1354 140356995435392 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:12:57.216  1354 140356995435392 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:12:57.218  1354 140356995435392 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:12:57.221  1354 140356995435392 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:12:57.221  1354 140356995435392 G   AutoLogin::Login: enabled: 1
+2023/04/15 13:12:57.221  1354 140356995435392 G   AccountLoginStateMachine::Reset
+2023/04/15 13:12:57.222  1354 140356995435392 G   VoIP: Constructor
+2023/04/15 13:12:57.224  1354 140356995435392 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:12:57.227  1354 140356995435392 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:12:57.227  1354 140356995435392 G!!!Own session could not be resolved, unable to startup, Errorcode=11
+2023/04/15 13:12:57.229  1354 140356995435392 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:12:57.229  1354 140356995435392 G   Chat::Stop: Stopping chat
+2023/04/15 13:12:57.232  1354 140356995435392 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:12:57.233  1354 140356995435392 G   InterProcessBase::SetReadyToProcessCommands(0)
+2023/04/15 13:12:57.233  1354 140356995435392 G   VoIP: Destructor
+2023/04/15 13:12:57.233  1354 140356980893248 G   VoIP: VoIPFieldLoggerFileSynchronizer (a ThreadPool): StopThreads
+2023/04/15 13:12:57.235  1354 140356995435392 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:12:57.238  1354 140356995435392 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:12:57.240  1354 140356995435392 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:12:57.240  1354 140356995435392 G   InterProcessBase::ShutDown: Shutdown IPC
+2023/04/15 13:12:57.240  1354 140356995435392 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 9 failed with error 2, Errorcode=11
+2023/04/15 13:12:57.240  1354 140356995435392 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 5 failed with error 2, Errorcode=11
+2023/04/15 13:12:57.240  1354 140356995435392 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 6 failed with error 2, Errorcode=11
+2023/04/15 13:12:57.240  1354 140356995435392 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 14 failed with error 2, Errorcode=11
+2023/04/15 13:12:57.241  1354 140356995435392 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 10 failed with error 2, Errorcode=11
+2023/04/15 13:12:57.243  1354 140356995435392 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!, Errorcode=11
+2023/04/15 13:12:57.251  1354 140356995435392 G   interprocessbase::SecureNetwork destroyed
+2023/04/15 13:12:57.252  1354 140356995435392 G   Shutting down DBus IOHandler

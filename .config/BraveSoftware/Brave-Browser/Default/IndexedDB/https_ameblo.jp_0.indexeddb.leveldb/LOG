@@ -1,0 +1,6 @@
+2023/04/02-14:07:46.667 110f Creating DB /home/izza/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_ameblo.jp_0.indexeddb.leveldb since it was missing.
+2023/04/02-14:07:46.680 110f Reusing MANIFEST /home/izza/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_ameblo.jp_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/02-14:07:46.949 110f Level-0 table #5: started
+2023/04/02-14:07:46.957 110f Level-0 table #5: 1204 bytes OK
+2023/04/02-14:07:46.961 110f Delete type=0 #3
+2023/04/02-14:07:46.961 110f Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

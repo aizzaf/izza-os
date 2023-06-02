@@ -1,0 +1,14 @@
+2023/05/01-15:53:20.835 4f1 Reusing MANIFEST /home/izza/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_edunex.itb.ac.id_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/01-15:53:20.836 4f1 Recovering log #27
+2023/05/01-15:53:20.836 4f1 Reusing old log /home/izza/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_edunex.itb.ac.id_0.indexeddb.leveldb/000027.log 
+2023/05/01-15:53:20.836 4f1 Delete type=2 #25
+2023/05/01-15:53:20.966 169a Level-0 table #32: started
+2023/05/01-15:53:20.971 169a Level-0 table #32: 601 bytes OK
+2023/05/01-15:53:20.973 169a Delete type=0 #27
+2023/05/01-15:53:20.978 4f1 Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x09\x00\x00\x05' @ 218 : 1
+2023/05/01-15:53:20.978 4f1 Compacting 1@0 + 1@1 files
+2023/05/01-15:53:20.980 4f1 Generated table #33@0: 14 keys, 940 bytes
+2023/05/01-15:53:20.980 4f1 Compacted 1@0 + 1@1 files => 940 bytes
+2023/05/01-15:53:20.981 4f1 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/01-15:53:20.982 4f1 Delete type=2 #32
+2023/05/01-15:53:20.982 169a Manual compaction at level-0 from '\x00\x09\x00\x00\x05' @ 218 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)
