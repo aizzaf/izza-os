@@ -1,7 +1,0 @@
-2023/05/01-09:07:09.976 4f1 Reusing MANIFEST /home/izza/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/05/01-09:07:09.976 4f1 Recovering log #3
-2023/05/01-09:07:10.027 4f1 Reusing old log /home/izza/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb/000003.log 
-2023/05/01-13:00:19.148 4f2 Level-0 table #5: started
-2023/05/01-13:00:19.210 4f2 Level-0 table #5: 1628315 bytes OK
-2023/05/01-13:00:19.218 4f2 Delete type=0 #3
-2023/05/01-13:00:19.219 4f2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
